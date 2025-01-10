@@ -13,8 +13,17 @@ A simple and functional login page built using the MERN (MongoDB, Express, React
 - Responsive design for better usability on all devices
 
 ## Application
-1.Signup form page
+1. Signup form page
 
+![Screenshot 2025-01-10 113029](https://github.com/user-attachments/assets/f209055f-26d3-499f-b27c-272f1274fcba)
+
+2. Signin form page
+
+![Screenshot 2025-01-10 113155](https://github.com/user-attachments/assets/77d448a8-c4ab-4975-a843-426783468601)
+
+3. Home page
+
+![Screenshot 2025-01-10 113051](https://github.com/user-attachments/assets/2ed414dd-b0cd-456b-84a7-49866991e2f8)
 
 
 ## Installation
